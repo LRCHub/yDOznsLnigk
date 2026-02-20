@@ -1,0 +1,80 @@
+{
+  "version": 1,
+  "base_track": "夏音 - Natsune",
+  "base_artist": "Yuuri",
+  "createdAt": "2026-02-20T08:24:03.170834Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "夏音",
+      "artist": "GLAY",
+      "has_synced": true,
+      "path": "select/01_夏音_GLAY.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "夏音",
+      "artist": "優里",
+      "has_synced": true,
+      "path": "select/02_夏音_優里.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "夏音",
+      "artist": "優里",
+      "has_synced": true,
+      "path": "select/03_夏音_優里.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "夏音-フシギナイロ-",
+      "artist": "Clover(CV:五十嵐裕美・久野美咲・木戸衣吹・悠木碧)",
+      "has_synced": true,
+      "path": "select/04_夏音-フシギナイロ-_Clover(CV_五十嵐裕美・久野美咲・木戸衣吹・悠木碧).lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "夏音-フシギナイロ-",
+      "artist": "Clover(CV:五十嵐裕美・久野美咲・木戸衣吹・悠木碧)/f*f(本渡楓・下地紫野)",
+      "has_synced": true,
+      "path": "select/05_夏音-フシギナイロ-_Clover(CV_五十嵐裕美・久野美咲・木戸衣吹・悠木碧)_f_f(本渡楓・下地紫野).lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "夏音",
+      "artist": "優里",
+      "has_synced": false,
+      "path": "select/pl_01_夏音_優里.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "夏音",
+      "artist": "優里",
+      "has_synced": false,
+      "path": "select/pl_02_夏音_優里.txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "夏音",
+      "artist": "優里",
+      "has_synced": false,
+      "path": "select/pl_03_夏音_優里.txt"
+    },
+    {
+      "id": "petitlyrics_4",
+      "source": "petitlyrics",
+      "title": "夏音",
+      "artist": "優里",
+      "has_synced": false,
+      "path": "select/pl_04_夏音_優里.txt"
+    }
+  ]
+}
